@@ -1,0 +1,18 @@
+.banner {
+    background-image: url(images/donat.png);
+    padding: 150px;
+}
+
+.text-first {
+    text-align: center;
+    color: #ffff;
+}
+
+.donate-now-btn {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px;
+    border-radius: 10px;
+    color: #ffff;
+    margin-left: 40%;
+}
