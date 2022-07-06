@@ -29,6 +29,7 @@ h1 {
 
 p {
     text-align: center;
+    color: rgb(78, 78, 78);
 }
 
 .taka-limit {
@@ -66,4 +67,40 @@ h5 {
     border-radius: 10px;
     color: #ffff;
     margin-left: 45%;
+}
+
+#div-first {
+    background-color: antiquewhite;
+    padding: 15px 10px;
+    margin: 5px 7px;
+    border-radius: 3px;
+}
+
+#div-second {
+    background-color: rgb(255, 205, 230);
+    padding: 15px 10px;
+    margin: 5px 7px;
+    border-radius: 5px;
+}
+
+#div-third {
+    background-color: rgb(235, 250, 182);
+    padding: 15px 10px;
+    margin: 5px 7px;
+    border-radius: 3px;
+}
+
+.main-div {
+    font-size: 12px;
+    display: flex;
+    margin: 10%;
+}
+
+.container1 {
+    margin-top: 100px;
+}
+
+#our-donate-plan-text {
+    font-size: 14px;
+    color: rgb(141, 138, 138);
 }
