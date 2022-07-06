@@ -1,3 +1,9 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+}
+
 .banner {
     background-image: url(images/donat.png);
     padding: 150px;
@@ -10,9 +16,54 @@
 
 .donate-now-btn {
     text-decoration: none;
-    background-color: tomato;
+    background-image: linear-gradient(tomato, rgb(165, 115, 22));
     padding: 15px;
     border-radius: 10px;
     color: #ffff;
-    margin-left: 40%;
+    margin-left: 45%;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.taka-limit {
+    display: flex;
+    margin: 40px 100px;
+}
+
+.taka-limit h2 {
+    padding: 25px 10px;
+    margin: 25px 30px;
+    background-color: rgb(245, 241, 241);
+    border-radius: 10px;
+}
+
+#taka-border {
+    color: tomato;
+    background-color: rgb(245, 205, 198);
+    border: 2px solid tomato;
+}
+
+h5 {
+    color: rgb(150, 151, 151);
+    width: 400px;
+    margin-left: 240px;
+    border-bottom: 1px solid rgb(165, 164, 164);
+    padding-left: 190px;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+
+.donate-now-btn2 {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, rgb(236, 160, 18));
+    padding: 10px;
+    border-radius: 10px;
+    color: #ffff;
+    margin-left: 45%;
 }
