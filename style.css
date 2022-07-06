@@ -109,6 +109,32 @@ h5 {
     text-align: center;
 }
 
+.our-other-project {
+    display: flex;
+    width: 50%;
+    padding-left: 2%;
+    margin-left: 80px;
+    margin-bottom: 150px;
+    margin-top: 70px;
+}
+
+.our-projects {
+    background-color: rgb(211, 232, 250);
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+
+#project-color {
+    color: tomato;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.our-other-project img {
+    width: 50%;
+    margin-left: 10px;
+}
+
 .mail-desing {
     background-color: bisque;
     margin: 5% 20%;
