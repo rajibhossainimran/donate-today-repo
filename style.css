@@ -105,6 +105,33 @@ h5 {
     color: rgb(141, 138, 138);
 }
 
+.upnter-news {
+    text-align: center;
+}
+
+.mail-desing {
+    background-color: bisque;
+    margin: 5% 20%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#email-under {
+    border: none;
+    background-color: rgb(223, 221, 221);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#subscribe-btn {
+    border: none;
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px;
+    color: #ffff;
+}
+
 footer {
     text-align: center;
     background-color: rgb(0, 0, 0);
